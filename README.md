@@ -1,3 +1,17 @@
+![Plasmo Notion](https://github.com/TH-Activities/saturday-hack-night-template/assets/64391274/85d3fbb8-aed6-4751-b051-4539df392f1a)
+
+
+# Project Name
+Long Description about project. This project do that. This project is awesome...
+## Team members
+1. [Arya Vijayan](https://github.com/TH-Activities/saturday-hack-night-template/AryaV14)
+2. [Donna Thomas](https://github.com/TH-Activities/saturday-hack-night-template/donnat-homas123)
+3. [Neha Shenoy](https://github.com/TH-Activities/saturday-hack-night-template/)
+## Libraries used
+To run this application locally, you'll need the following:
+- Nodejs
+- Typescript
+## How to configure and run
 Below are the steps to get your plugin running. You can also find instructions at:
 
   https://www.figma.com/plugin-docs/plugin-quickstart-guide/
