@@ -1,8 +1,8 @@
 ![Plasmo Notion](https://github.com/TH-Activities/saturday-hack-night-template/assets/64391274/85d3fbb8-aed6-4751-b051-4539df392f1a)
 
 
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+# Project Name: Codehats
+Plugin to extract all the images used in figma file and export them in png format into a folder. 
 ## Team members
 1. [Arya Vijayan](https://github.com/TH-Activities/saturday-hack-night-template/AryaV14)
 2. [Donna Thomas](https://github.com/TH-Activities/saturday-hack-night-template/donnat-homas123)
